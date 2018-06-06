@@ -7,7 +7,7 @@ logo: coder.jpeg
 search: true
 
 
-# url: http://liuzxc.github.io
+# url: http://sctjgz.github.io
 url:
 
 
@@ -34,14 +34,14 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Jasonliu
+  name: Cong
   avatar: my_photo.png
-  email: lxq_102172@163.com
-  disqus-shortname: liuzxc
+  email: 13020030505@163.com
+  disqus-shortname: sctjgz
   twitter: #username
   facebook: #username
-  github: liuzxc
-  stackexchange: http://stackoverflow.com/users/1805902/liuzxc
+  github: sctjgz
+  stackexchange: http://stackoverflow.com/
   linkedin: #username
   instagram: #username
   flickr: #username
