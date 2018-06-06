@@ -1,8 +1,7 @@
 # Site wide configuration
 
-title: Jason's blog
+title: Cong's blog
 locale: en_US
-description: 恐惧源于未知
 logo: coder.jpeg
 search: true
 
